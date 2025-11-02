@@ -38,6 +38,6 @@ const Navbar = () => {
         </Flex>
     </Container>
   )
-}
+};
 
 export default Navbar
